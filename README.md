@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there</h1>
 <p align="center">I am a Front-end developer specialized in creating responsive and interactive web and mobile systems and components. Committed to following best development practices, always eager to learn new technologies and market trends.</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oliro&show_icons=true&locale=en&layout=compact" alt="oliro" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oliro&show_icons=true&theme=radical&locale=en&layout=compact" alt="oliro" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oliro&show_icons=true&theme=radical&locale=en" alt="oliro" /></p>
 
